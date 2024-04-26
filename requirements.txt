@@ -1,0 +1,11 @@
+jupyter
+notebook
+langchain 
+tiktoken 
+pypdf 
+faiss-gpu 
+sentence_transformers==2.2.2 
+InstructorEmbedding 
+transformers 
+accelerate 
+bitsandbytes
